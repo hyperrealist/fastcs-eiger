@@ -1,3 +1,4 @@
+import faulthandler
 from pathlib import Path
 from typing import Optional
 
@@ -55,6 +56,8 @@ def ioc(
     log_level: LogLevel = LogLevel.TRACE,
     interactive: bool = False,
 ):
+    faulthandler.enable()
+
     ui_path = OPI_PATH if OPI_PATH.is_dir() else Path.cwd() / "opi"
 
     configure_logging(log_level)
