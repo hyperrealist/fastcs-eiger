@@ -97,7 +97,7 @@ COPY --from=ghcr.io/astral-sh/uv:0.10 /uv /uvx /bin/
 
 
 # ----------------------------------------------------------------------------------------------------- user
-RUN echo "user:x:37149:37149:Dynamic User:/home/user:/bin/bash" >> /etc/passwd
+RUN echo "user:x:37944:37944:Dynamic User:/home/user:/bin/bash" >> /etc/passwd
 # ----------------------------------------------------------------------------------------------------- /user
 
 # Make directory to run inside and generate bob files
