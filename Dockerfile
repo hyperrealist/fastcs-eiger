@@ -58,7 +58,7 @@ FROM ubuntu:noble AS runtime
 #     && apt-get dist-clean
 # ----------------------------------------------------------------------------------------------------- gdb
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
-    gdb libnss-wrapper \
+    gdb libnss-wrapper git \
     && apt-get dist-clean
 # ----------------------------------------------------------------------------------------------------- /gdb
 
