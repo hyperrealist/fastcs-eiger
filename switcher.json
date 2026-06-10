@@ -1,94 +1,98 @@
 [
   {
     "version": "main",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/main/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/main/"
+  },
+  {
+    "version": "0.4.1b6",
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.1b6/"
   },
   {
     "version": "0.4.1b4",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.1b4/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.1b4/"
   },
   {
     "version": "0.4.1b3",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.1b3/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.1b3/"
   },
   {
     "version": "0.4.1b2",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.1b2/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.1b2/"
   },
   {
     "version": "0.4.1b1",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.1b1/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.1b1/"
   },
   {
     "version": "0.4.0b3",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.0b3/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.0b3/"
   },
   {
     "version": "0.4.0b2",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.0b2/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.0b2/"
   },
   {
     "version": "0.4.0b1",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.0b1/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.0b1/"
   },
   {
     "version": "0.4.0",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.4.0/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.4.0/"
   },
   {
     "version": "0.3.1",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.3.1/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.3.1/"
   },
   {
     "version": "0.3.0",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.3.0/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.3.0/"
   },
   {
     "version": "0.2.1",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.2.1/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.2.1/"
   },
   {
     "version": "0.2.0",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.2.0/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.2.0/"
   },
   {
     "version": "0.1.0beta5",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.1.0beta5/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.1.0beta5/"
   },
   {
     "version": "0.1.0beta4",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.1.0beta4/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.1.0beta4/"
   },
   {
     "version": "0.1.0beta3",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.1.0beta3/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.1.0beta3/"
   },
   {
     "version": "0.1.0beta2",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.1.0beta2/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.1.0beta2/"
   },
   {
     "version": "0.1.0beta1",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.1.0beta1/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.1.0beta1/"
   },
   {
     "version": "0.1.0",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/0.1.0/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/0.1.0/"
   },
   {
     "version": "api-fixes-2",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/api-fixes-2/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/api-fixes-2/"
   },
   {
     "version": "dev",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/dev/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/dev/"
   },
   {
     "version": "http-connection",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/http-connection/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/http-connection/"
   },
   {
     "version": "monitor",
-    "url": "https://DiamondLightSource.github.io/fastcs-eiger/monitor/"
+    "url": "https://hyperrealist.github.io/fastcs-eiger/monitor/"
   }
 ]
